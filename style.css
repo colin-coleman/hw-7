@@ -49,3 +49,7 @@ a:hover {
 a:active {
   color: orange;
 }
+
+footer a:visited {
+  color: green;
+}
